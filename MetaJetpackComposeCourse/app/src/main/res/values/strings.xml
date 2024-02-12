@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meta Jetpack Compose Course</string>
+    <string name="developer_name">Ibrahim Can Erdogan</string>
+    <string name="order">Order</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae erat ut libero mollis sodales. Proin vitae mattis eros, a vehicula nibh. Duis orci nibh, vulputate et enim ac, rhoncus consectetur lectus. Etiam feugiat velit eu rutrum suscipit. Nulla iaculis, quam non porttitor viverra, ipsum purus imperdiet dolor, non pretium nibh nisl eget mi. Maecenas rhoncus varius lacus, vitae mollis dui. Vivamus bibendum placerat lectus eu luctus. Fusce eget interdum leo, vel tempor nisl. Proin pharetra tincidunt viverra. Nulla facilisi. Donec elementum, leo lacinia tempor interdum, nulla augue rutrum felis, vel bibendum nisl turpis vel odio.</string>
+    <string name="description_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae erat ut libero mollis sodales. </string>
+
+</resources>
